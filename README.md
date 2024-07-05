@@ -13,5 +13,8 @@ Este repositorio contiene mi plan de estudio y proyectos para aprender Java en p
 - **Contribuciones a la Comunidad:** Pull requests y contribuciones a proyectos de código abierto.
 
 ## Diario de Aprendizaje
+## Julio 5, 2024
+- **Actividad:** Completé el capítulo 1 del libro "Java A Beginner’s Guide".
+- **Reflexión:** Comprendí bien explicación de la estructura básica de un programa Java es fácil de entender..
+- **Dificultades:** Ninguna por ahora.
 
-Mantendré un registro diario de mis actividades de estudio y progreso.
